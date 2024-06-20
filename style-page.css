@@ -1,0 +1,41 @@
+body {
+   
+    background-image: url('./page-image.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.layout {
+    padding: 90px
+}
+
+.heading {
+    font-size: 40px;
+    width: 40%;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+}
+
+.let-chat-button {
+    margin-top: 40px;
+    width: 200px;
+    height: 80px;
+    background-color: #0ea5e9;
+    color: #fff;
+    border: none;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.underline-text {
+    text-decoration: underline;
+    text-decoration-color: #0ea5e9;
+    
+}
+
+.description {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+    width: 300px;
+
+}
